@@ -11,7 +11,7 @@ W = 800
 H = 600
 
 # NameOfThegame
-pygame.display.set_caption('Sqott')
+pygame.display.set_caption('WinCode_IsraelDevelopers2021')
 
 # The Game
 BLUE = (255, 255, 102)
